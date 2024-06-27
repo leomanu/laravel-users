@@ -41,7 +41,7 @@ Easily start creating, updating, editing, and deleting users in minutes with min
 
 
 ### Requirements
-* [Laravel 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, or 7+](https://laravel.com/docs/installation)
+* [Laravel 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, 7, or 8+](https://laravel.com/docs/installation)
 
 ### Integrations
 Laravel users can work out the box with or without the following roles packages:
@@ -53,7 +53,7 @@ Laravel users can work out the box with or without the following roles packages:
 ### Installation Instructions
 1. From your projects root folder in terminal run:
 
-    Laravel 5.6, 5.7, and 5.8+ use:
+    Laravel 5.6, 5.7, 5.8, 6, 7, and 8+ use:
 
     ```
         composer require jeremykenedy/laravel-users
@@ -83,7 +83,7 @@ Laravel users can work out the box with or without the following roles packages:
     ```
 
 2. Register Package
-* Laravel 5.5, 5.6, and 5.7+
+* Laravel 5.5, 5.6, 5.7, 5.8, 6, 7, 8+
 Uses package auto discovery feature, no need to edit the `config/app.php` file.
 
 * Laravel 5.4 and below
@@ -298,7 +298,7 @@ laravel-users/
 
 ### Opening an Issue
 Before opening an issue there are a couple of considerations:
-* A **star** on this project shows support and is way to say thank you to all the contributors. If you open an issue without a star, *your issue may be closed without consideration.* Thank you for understanding and the support. You are all awesome!
+* You are all awesome!
 * **Read the instructions** and make sure all steps were *followed correctly*.
 * **Check** that the issue is not *specific to your development environment* setup.
 * **Provide** *duplication steps*.
